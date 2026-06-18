@@ -9,13 +9,13 @@ A ~20-year progression as a PCB designer, in three stages: a **self-taught hobby
 
 ## Stage 1 — Self-taught roots: photo-etching + PAD2PAD
 
-Long before any professional tool, I designed and built PCBs at home — **photo-etching** and toner-transfer, single- and double-sided — laying the boards out in **PAD2PAD**. Over the years that became **470+ board designs**: RF (FM transmitters, VFO+PLL, receivers, radio-control), oscillators (Colpitts, Hartley), and test instruments (frequency meters, LC meters, power supplies, transistor testers).
+For about **ten years** I designed PCBs in **PAD2PAD**, building them at home by **photo-etching** and toner-transfer. It began with simple single-sided **through-hole** boards and grew, across that decade, into **SMD** and far more professional, product-grade designs — **470+ boards** in all: RF (FM transmitters, VFO+PLL, receivers, radio-control), oscillators (Colpitts, Hartley), test instruments (frequency / LC meters, power supplies, transistor testers), switching power supplies, chargers, and complete **multi-board products**.
 
-This is where the fundamentals were learned *by doing* — routing, ground management, footprints, and designing for the constraints of home fabrication.
+This is where the fundamentals were learned *by doing* — routing, ground management, footprints, **SMD**, and designing for the constraints of home fabrication.
 
 <p align="center">
   <img src="docs/images/pad2pad-gallery.jpg" width="900"><br>
-  <em>A dozen of the 470+ boards — RF, oscillators, instruments and power supplies (PAD2PAD layouts). Individual layouts in <a href="docs/images/boards">docs/images/boards</a>.</em>
+  <em>A dozen of the 470+ PAD2PAD boards — the body of work spans from through-hole RF and instruments to SMD and complete multi-board products. Individual layouts in <a href="docs/images/boards">docs/images/boards</a>.</em>
 </p>
 
 ## Stage 2 — KiCad: my own engineering projects
