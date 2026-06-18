@@ -18,6 +18,21 @@ This is where the fundamentals were learned *by doing* — routing, ground manag
   <em>A dozen of the 470+ PAD2PAD boards — the body of work spans from through-hole RF and instruments to SMD and complete multi-board products. Individual layouts in <a href="docs/images/boards">docs/images/boards</a>.</em>
 </p>
 
+### A product-grade highlight — a bone-conduction dental hearing aid (2014)
+
+The SMD / multi-board end of this PAD2PAD decade produced a complete **assistive-tech prototype**: a **bone-conduction hearing device** worn like a dental retainer.
+
+Audio streamed over **Bluetooth** from a phone; a small stack of my own SMD boards — **driver/amplifier, battery, charge and connector** — drove a transducer (a piezo capsule / micro-vibration motor) at audio frequency. The electronics and transducer were embedded in a **dental acrylic retainer**, molded on an impression I took myself (alginate → stone cast), so the vibration couples straight into the **teeth and jaw bone** and on to the cochlea.
+
+The idea: a **non-invasive** aid for **conductive hearing loss** — a damaged outer/middle ear but a working cochlea — the same bone-conduction principle used by bone-anchored hearing aids, here through the teeth instead of a surgical implant.
+
+It's a personal prototype, but it's the honest culmination of the hobby stage: **several SMD boards, a real mechanical/acoustic integration, and an actual wearable product** — not just a single etched board.
+
+<p align="center">
+  <img src="docs/images/dental-device.jpg" width="760"><br>
+  <em>Top-left → bottom-right: my SMD driver/transducer board · a dental impression I cast myself · the electronics integrated onto the mold · the finished wearable bone-conduction retainer.</em>
+</p>
+
 ## Stage 2 — KiCad: my own engineering projects
 
 I moved to **KiCad** (open-source professional EDA) for my own embedded projects — schematic capture, multilayer layout and Gerber output, with proper design-rule and footprint discipline.
