@@ -30,7 +30,7 @@ As the years went on the boards got denser and more *product-like* — RF receiv
 These layouts weren't just drawn — they were **made**. Most were **photo-etched at home**, drilled and hand-soldered, many in **surface-mount** down to footprints about **the size of a microSD adapter**. Several were then **potted in resin** into finished modules — the same encapsulation behind the dental device below.
 
 <p align="center">
-  <img src="docs/images/realized-boards.jpg" width="620"><br>
+  <img src="docs/images/realized-boards.jpg" width="900"><br>
   <em>Some of the actual boards — home photo-etched, hand-populated in SMD (a microSD adapter sits in the first photo for scale), and several potted into finished resin modules.</em>
 </p>
 
