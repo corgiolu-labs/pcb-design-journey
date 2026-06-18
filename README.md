@@ -25,6 +25,15 @@ As the years went on the boards got denser and more *product-like* — RF receiv
   <em>A more advanced set: RF receivers &amp; radio-control · an RF VFO + PLL synthesizer (multi-board) · TDA audio amplifiers · a multi-MOSFET power stage · boost converters · LCD instruments. More layouts in <a href="docs/images/boards">docs/images/boards</a>.</em>
 </p>
 
+### The boards, etched and built at home
+
+These layouts weren't just drawn — they were **made**. Most were **photo-etched at home**, drilled and hand-soldered, many in **surface-mount** down to footprints about **the size of a microSD adapter**. Several were then **potted in resin** into finished modules — the same encapsulation behind the dental device below.
+
+<p align="center">
+  <img src="docs/images/realized-boards.jpg" width="620"><br>
+  <em>Some of the actual boards — home photo-etched, hand-populated in SMD (a microSD adapter sits in the first photo for scale), and several potted into finished resin modules.</em>
+</p>
+
 ### A product-grade highlight — a bone-conduction dental hearing aid (2014)
 
 The SMD / multi-board end of this PAD2PAD decade produced a complete **assistive-tech prototype**: a **bone-conduction hearing device** worn like a dental retainer.
