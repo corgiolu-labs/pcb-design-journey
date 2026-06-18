@@ -9,13 +9,20 @@ A ~20-year progression as a PCB designer, in three stages: a **self-taught hobby
 
 ## Stage 1 — Self-taught roots: photo-etching + PAD2PAD
 
-For about **ten years** I designed PCBs in **PAD2PAD**, building them at home by **photo-etching** and toner-transfer. It began with simple single-sided **through-hole** boards and grew, across that decade, into **SMD** and far more professional, product-grade designs — **470+ boards** in all: RF (FM transmitters, VFO+PLL, receivers, radio-control), oscillators (Colpitts, Hartley), test instruments (frequency / LC meters, power supplies, transistor testers), switching power supplies, chargers, and complete **multi-board products**.
+I started building PCBs as a **teenager (around 15)** and never stopped. For about **ten years** PAD2PAD was my main design tool — boards I etched at home by **photo-etching** and toner-transfer. They began as simple single-sided **through-hole** circuits and grew, over that decade, into dense **SMD** and far more professional, product-grade designs — **470+ boards** in all: RF (FM transmitters, VFO+PLL synthesizers, receivers, radio-control), oscillators (Colpitts, Hartley), test instruments (frequency / LC meters, power supplies, transistor testers), switching/boost power supplies, multi-MOSFET power stages, chargers, and complete **multi-board products**.
 
 This is where the fundamentals were learned *by doing* — routing, ground management, footprints, **SMD**, and designing for the constraints of home fabrication.
 
 <p align="center">
   <img src="docs/images/pad2pad-gallery.jpg" width="900"><br>
   <em>A dozen of the 470+ PAD2PAD boards — the body of work spans from through-hole RF and instruments to SMD and complete multi-board products. Individual layouts in <a href="docs/images/boards">docs/images/boards</a>.</em>
+</p>
+
+As the years went on the boards got denser and more *product-like* — RF receivers and radio-control links, audio amplifiers (TDA family), switching/boost converters, power stages with several MOSFETs, LCD-based instruments, and even a small multi-board **RF VFO + PLL synthesizer** — all still designed in PAD2PAD and etched at home.
+
+<p align="center">
+  <img src="docs/images/pad2pad-gallery-2.jpg" width="900"><br>
+  <em>A more advanced set: RF receivers &amp; radio-control · an RF VFO + PLL synthesizer (multi-board) · TDA audio amplifiers · a multi-MOSFET power stage · boost converters · LCD instruments. More layouts in <a href="docs/images/boards">docs/images/boards</a>.</em>
 </p>
 
 ### A product-grade highlight — a bone-conduction dental hearing aid (2014)
