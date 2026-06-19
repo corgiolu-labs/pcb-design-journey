@@ -34,6 +34,15 @@ These layouts weren't just drawn — they were **made**. Most were **photo-etche
   <em>Some of the actual boards — home photo-etched, hand-populated in SMD (a microSD adapter sits in the first photo for scale), and several potted into finished resin modules.</em>
 </p>
 
+### Beyond etching: a modified CNC 3018 for PCB milling
+
+Photo-etching isn't the only way I make boards at home. I also **mill single-layer PCBs** on a budget **CNC 3018** that I **modified with a more powerful spindle motor** — adding a 3D-printed cooling shroud and its driver — for cleaner isolation routing. The toolchain is **Gerber → FlatCAM (isolation routing + drills) → G-code → CNC**.
+
+<p align="center">
+  <img src="docs/images/cnc-3018.jpg" width="560"><br>
+  <em>My CNC 3018, upgraded with a bigger spindle and a printed cooling shroud — it runs FlatCAM-generated G-code to isolation-mill single-layer boards.</em>
+</p>
+
 ### A product-grade highlight — a bone-conduction dental hearing aid (2014)
 
 The SMD / multi-board end of this PAD2PAD decade produced a complete **assistive-tech prototype**: a **bone-conduction hearing device** worn like a dental retainer.
